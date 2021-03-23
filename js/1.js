@@ -1,0 +1,1 @@
+new SimpleBar(document.getElementById('log__left'));
